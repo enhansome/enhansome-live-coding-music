@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Environments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performances"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:38.047Z",
+    "original_repository": "pjagielski/awesome-live-coding-music",
+    "original_repository_sha": "bcaee484bf9e2e0fe66096dcfbac7cb8e57a201d",
+    "enhanced_repository": "enhansome/enhansome-live-coding-music",
+    "enhanced_repository_description": null,
+    "title": "Awesome Live Coding Music with stars"
+  }
+}
