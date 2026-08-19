@@ -1,34 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Environments"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Talks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Performances"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Related lists"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T21:09:56.679Z",
+    "last_updated": "2026-08-19T12:36:38.524Z",
     "original_repository": "pjagielski/awesome-live-coding-music",
+    "original_repository_id": 73324531,
     "original_repository_sha": "bcaee484bf9e2e0fe66096dcfbac7cb8e57a201d",
     "enhanced_repository": "enhansome/enhansome-live-coding-music",
     "enhanced_repository_description": null,
