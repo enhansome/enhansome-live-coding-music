@@ -1,7 +1,245 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SuperCollider",
+          "description": "platform for audio synthesis and algorithmic composition Smalltalk-like (SClang)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4228314,
+            "language": "C++",
+            "last_commit": "2026-08-20T21:07:16Z",
+            "owner": "supercollider",
+            "repo": "supercollider",
+            "stars": 6699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Pi",
+          "description": "complete open source programming environment originally designed to explore and teach programming concepts Ruby",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9746477,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:51:53Z",
+            "owner": "sonic-pi-net",
+            "repo": "sonic-pi",
+            "stars": 12081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overtone",
+          "description": "open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming Clojure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856493,
+            "language": "Clojure",
+            "last_commit": "2026-01-24T09:04:34Z",
+            "owner": "overtone",
+            "repo": "overtone",
+            "stars": 6216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TidalCycles",
+          "description": "language for live coding of pattern Haskell",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 898407,
+            "language": "Haskell",
+            "last_commit": "2025-06-13T19:22:15Z",
+            "owner": "tidalcycles",
+            "repo": "Tidal",
+            "stars": 2850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alda",
+          "description": "music programming language for musicians Alda/Clojure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23338323,
+            "language": "Go",
+            "last_commit": "2026-08-19T20:01:02Z",
+            "owner": "alda-lang",
+            "repo": "alda",
+            "stars": 5937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gibber",
+          "description": "live coding environment for the web browser Javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3394639,
+            "language": "JavaScript",
+            "last_commit": "2024-09-17T13:44:17Z",
+            "owner": "gibber-cc",
+            "repo": "gibber",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extempore",
+          "description": "cyber-physical programming environment Scheme-like",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1286914,
+            "language": "C",
+            "last_commit": "2026-07-22T04:13:00Z",
+            "owner": "digego",
+            "repo": "extempore",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoxDot",
+          "description": "pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41629698,
+            "language": "Python",
+            "last_commit": "2025-06-07T09:26:41Z",
+            "owner": "Qirky",
+            "repo": "FoxDot",
+            "stars": 1156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORCΛ",
+          "description": "esoteric programming language designed to quickly create procedural sequencers JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121553439,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T18:19:05Z",
+            "owner": "hundredrabbits",
+            "repo": "Orca",
+            "stars": 5069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Punkt",
+          "description": "live coding music library/environment for Kotlin, for software developers who want to dive into live coding music Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254813352,
+            "language": "Kotlin",
+            "last_commit": "2025-12-31T15:12:33Z",
+            "owner": "pjagielski",
+            "repo": "punkt",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gwion",
+          "description": "a programming language designed for making music and sound inspired by ChucK but also has a REPL mode you can use for live-coding Gwion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69284662,
+            "language": "C",
+            "last_commit": "2025-02-10T23:10:02Z",
+            "owner": "Gwion",
+            "repo": "Gwion",
+            "stars": 580
+          }
+        }
+      ],
+      "title": "Environments"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Klangmeister",
+          "description": "musical scratchpad ClojureScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48604336,
+            "language": "Clojure",
+            "last_commit": "2020-01-08T19:57:23Z",
+            "owner": "ctford",
+            "repo": "klangmeister",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leipzig",
+          "description": "composition library for Clojure and Clojurescript Clojure, ClojureScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6459936,
+            "language": "Clojure",
+            "last_commit": "2025-12-15T22:24:27Z",
+            "owner": "ctford",
+            "repo": "leipzig",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disclojure",
+          "description": "live coding environment for Overtone and Leipzig Clojure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56968567,
+            "language": "Clojure",
+            "last_commit": "2019-02-11T17:39:34Z",
+            "owner": "pjagielski",
+            "repo": "disclojure",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mud",
+          "description": "layer over Overtone to make live composition more powerful and immediate Clojure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19996021,
+            "language": "Clojure",
+            "last_commit": "2016-10-16T08:52:00Z",
+            "owner": "josephwilk",
+            "repo": "mud",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "Libraries"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:05:24.225Z",
+    "last_updated": "2026-08-24T14:22:55.858Z",
     "original_repository": "pjagielski/awesome-live-coding-music",
     "original_repository_id": 73324531,
     "original_repository_sha": "bcaee484bf9e2e0fe66096dcfbac7cb8e57a201d",
