@@ -8,7 +8,7 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 
 | Name                                                                                                            | Summary                                                                                                                                                       | Language                |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [SuperCollider](https://github.com/supercollider/supercollider/) ⭐ 6,700 \| 🐛 1,093 \| 🌐 C++ \| 📅 2026-08-20 | platform for audio synthesis and algorithmic composition                                                                                                      | Smalltalk-like (SClang) |
+| [SuperCollider](https://github.com/supercollider/supercollider/) ⭐ 6,701 \| 🐛 1,093 \| 🌐 C++ \| 📅 2026-08-20 | platform for audio synthesis and algorithmic composition                                                                                                      | Smalltalk-like (SClang) |
 | [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,082 \| 🐛 24 \| 🌐 C++ \| 📅 2026-08-12                   | complete open source programming environment originally designed to explore and teach programming concepts                                                    | Ruby                    |
 | [Overtone](https://github.com/overtone/overtone) ⭐ 6,216 \| 🐛 96 \| 🌐 Clojure \| 📅 2026-01-24                | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure                 |
 | [TidalCycles](https://github.com/tidalcycles/Tidal) ⚠️ Archived                                                 | language for live coding of pattern                                                                                                                           | Haskell                 |
@@ -16,7 +16,7 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 | [Gibber](https://github.com/charlieroberts/Gibber) ⭐ 976 \| 🐛 30 \| 🌐 JavaScript \| 📅 2024-09-17             | live coding environment for the web browser                                                                                                                   | Javascript              |
 | [Extempore](https://github.com/digego/extempore) ⭐ 1,462 \| 🐛 18 \| 🌐 C \| 📅 2026-07-22                      | cyber-physical programming environment                                                                                                                        | Scheme-like             |
 | [FoxDot](https://github.com/Qirky/FoxDot) ⭐ 1,156 \| 🐛 52 \| 🌐 Python \| 📅 2025-06-07                        | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider                                              | Python                  |
-| [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,069 \| 🐛 39 \| 🌐 JavaScript \| 📅 2025-11-16               | esoteric programming language designed to quickly create procedural sequencers                                                                                | JavaScript              |
+| [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,070 \| 🐛 39 \| 🌐 JavaScript \| 📅 2025-11-16               | esoteric programming language designed to quickly create procedural sequencers                                                                                | JavaScript              |
 | [Punkt](https://github.com/pjagielski/punkt) ⭐ 330 \| 🐛 3 \| 🌐 Kotlin \| 📅 2025-12-31                        | live coding music library/environment for Kotlin, for software developers who want to dive into live coding music                                             | Kotlin                  |
 | [Gwion](https://github.com/Gwion/Gwion) ⭐ 580 \| 🐛 2 \| 🌐 C \| 📅 2025-02-10                                  | a programming language designed for making music and sound inspired by ChucK but also has a REPL mode you can use for live-coding                             | Gwion                   |
 
@@ -61,4 +61,4 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
