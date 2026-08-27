@@ -8,15 +8,15 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 
 | Name                                                                                                            | Summary                                                                                                                                                       | Language                |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [SuperCollider](https://github.com/supercollider/supercollider/) ⭐ 6,703 \| 🐛 1,093 \| 🌐 C++ \| 📅 2026-08-20 | platform for audio synthesis and algorithmic composition                                                                                                      | Smalltalk-like (SClang) |
-| [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,082 \| 🐛 24 \| 🌐 C++ \| 📅 2026-08-12                   | complete open source programming environment originally designed to explore and teach programming concepts                                                    | Ruby                    |
+| [SuperCollider](https://github.com/supercollider/supercollider/) ⭐ 6,704 \| 🐛 1,093 \| 🌐 C++ \| 📅 2026-08-20 | platform for audio synthesis and algorithmic composition                                                                                                      | Smalltalk-like (SClang) |
+| [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,083 \| 🐛 24 \| 🌐 C++ \| 📅 2026-08-12                   | complete open source programming environment originally designed to explore and teach programming concepts                                                    | Ruby                    |
 | [Overtone](https://github.com/overtone/overtone) ⭐ 6,216 \| 🐛 96 \| 🌐 Clojure \| 📅 2026-01-24                | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure                 |
 | [TidalCycles](https://github.com/tidalcycles/Tidal) ⚠️ Archived                                                 | language for live coding of pattern                                                                                                                           | Haskell                 |
-| [Alda](https://github.com/alda-lang/alda) ⭐ 5,937 \| 🐛 7 \| 🌐 Go \| 📅 2026-08-19                             | music programming language for musicians                                                                                                                      | Alda/Clojure            |
+| [Alda](https://github.com/alda-lang/alda) ⭐ 5,935 \| 🐛 7 \| 🌐 Go \| 📅 2026-08-19                             | music programming language for musicians                                                                                                                      | Alda/Clojure            |
 | [Gibber](https://github.com/charlieroberts/Gibber) ⭐ 976 \| 🐛 30 \| 🌐 JavaScript \| 📅 2024-09-17             | live coding environment for the web browser                                                                                                                   | Javascript              |
 | [Extempore](https://github.com/digego/extempore) ⭐ 1,462 \| 🐛 18 \| 🌐 C \| 📅 2026-07-22                      | cyber-physical programming environment                                                                                                                        | Scheme-like             |
 | [FoxDot](https://github.com/Qirky/FoxDot) ⭐ 1,156 \| 🐛 52 \| 🌐 Python \| 📅 2025-06-07                        | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider                                              | Python                  |
-| [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,071 \| 🐛 39 \| 🌐 JavaScript \| 📅 2025-11-16               | esoteric programming language designed to quickly create procedural sequencers                                                                                | JavaScript              |
+| [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,073 \| 🐛 39 \| 🌐 JavaScript \| 📅 2025-11-16               | esoteric programming language designed to quickly create procedural sequencers                                                                                | JavaScript              |
 | [Punkt](https://github.com/pjagielski/punkt) ⭐ 330 \| 🐛 3 \| 🌐 Kotlin \| 📅 2025-12-31                        | live coding music library/environment for Kotlin, for software developers who want to dive into live coding music                                             | Kotlin                  |
 | [Gwion](https://github.com/Gwion/Gwion) ⭐ 580 \| 🐛 2 \| 🌐 C \| 📅 2025-02-10                                  | a programming language designed for making music and sound inspired by ChucK but also has a REPL mode you can use for live-coding                             | Gwion                   |
 
@@ -55,10 +55,10 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 
 ## Related lists
 
-| Name                                                                                                   | Maintainer | Summary                                           |
-| ------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------- |
-| [All things livecoding](https://github.com/toplap/awesome-livecoding) ⭐ 3,275 \| 🐛 6 \| 📅 2026-08-10 | TOPLAP     | A curated list of live coding languages and tools |
+| Name                                                                              | Maintainer | Summary                                           |
+| --------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| [All things livecoding](https://github.com/toplap/awesome-livecoding) ⚠️ Archived | TOPLAP     | A curated list of live coding languages and tools |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
