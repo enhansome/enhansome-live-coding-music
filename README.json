@@ -135,7 +135,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5073
+            "stars": 5074
           }
         },
         {
@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:36.224Z",
-    "original_repository": "pjagielski/awesome-live-coding-music",
-    "original_repository_id": 73324531,
+    "last_updated": "2026-08-27T11:48:01.622Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 73324531,
+      "language": null,
+      "last_commit": "2022-09-20T11:10:44Z",
+      "owner": "pjagielski",
+      "repo": "awesome-live-coding-music",
+      "stars": 647
+    },
     "original_repository_sha": "bcaee484bf9e2e0fe66096dcfbac7cb8e57a201d",
     "enhanced_repository": "enhansome/enhansome-live-coding-music",
     "enhanced_repository_description": null,
