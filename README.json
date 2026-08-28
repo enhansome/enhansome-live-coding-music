@@ -16,7 +16,8 @@
             "owner": "supercollider",
             "repo": "supercollider",
             "stars": 6704
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12083
-          }
+            "stars": 12081
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-01-24T09:04:34Z",
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6216
-          }
+            "stars": 6217
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tidalcycles",
             "repo": "Tidal",
             "stars": 2850
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "alda-lang",
             "repo": "alda",
             "stars": 5935
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2024-09-17T13:44:17Z",
             "owner": "gibber-cc",
             "repo": "gibber",
-            "stars": 976
-          }
+            "stars": 977
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "digego",
             "repo": "extempore",
             "stars": 1462
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Qirky",
             "repo": "FoxDot",
             "stars": 1156
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5074
-          }
+            "stars": 5075
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pjagielski",
             "repo": "punkt",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Gwion",
             "repo": "Gwion",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         }
       ],
       "title": "Environments"
@@ -187,7 +198,8 @@
             "owner": "ctford",
             "repo": "klangmeister",
             "stars": 619
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "ctford",
             "repo": "leipzig",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "pjagielski",
             "repo": "disclojure",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         },
         {
           "node_type": "item",
@@ -232,14 +246,15 @@
             "owner": "josephwilk",
             "repo": "mud",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T04:55:29.592Z"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:01.622Z",
+    "last_updated": "2026-08-28T04:55:29.592Z",
     "original_repository_info": {
       "archived": false,
       "id": 73324531,
