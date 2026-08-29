@@ -19,7 +19,7 @@
             "open_issues": 1093,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6706,
+            "stars": 6707,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -56,7 +56,7 @@
             "open_issues": 25,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12084,
+            "stars": 12086,
             "topics": [
               "art",
               "audio",
@@ -136,11 +136,11 @@
             "id": 23338323,
             "language": "Go",
             "license": "EPL-2.0",
-            "last_commit": "2026-08-19T20:01:02Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-29T18:28:22Z",
+            "open_issues": 5,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5935,
+            "stars": 5936,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:27.976Z",
+    "last_updated": "2026-08-29T22:49:31.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
