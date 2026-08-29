@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:07:16Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6704
+            "stars": 6706
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -31,7 +31,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12081
+            "stars": 12084
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:55:29.592Z",
+    "last_updated": "2026-08-29T02:55:37.381Z",
     "original_repository_info": {
       "archived": false,
       "id": 73324531,
