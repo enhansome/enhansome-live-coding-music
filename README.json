@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An audio server, programming language, and IDE for sound synthesis and algorithmic composition.",
+            "homepage": "http://supercollider.github.io",
             "id": 4228314,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T21:07:16Z",
+            "open_issues": 1093,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6706
+            "stars": 6706,
+            "topics": [
+              "algorithmic-composition",
+              "audio",
+              "c-plus-plus",
+              "computer-music",
+              "electronic-music",
+              "hacktoberfest",
+              "livecoding",
+              "music",
+              "programming-language",
+              "sclang",
+              "scsynth",
+              "sonification",
+              "sound",
+              "supercollider",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -26,12 +47,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code. Music. Live.",
+            "homepage": "https://sonic-pi.net",
             "id": 9746477,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T16:51:53Z",
+            "open_issues": 25,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12084
+            "stars": 12084,
+            "topics": [
+              "art",
+              "audio",
+              "education",
+              "instrument",
+              "live-coding",
+              "livecoding",
+              "music",
+              "schools",
+              "sonic-pi",
+              "synthesis",
+              "synthesizer"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -42,12 +80,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative Programmable Music ",
+            "homepage": "http://overtone.github.io",
             "id": 856493,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-24T09:04:34Z",
+            "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6217
+            "stars": 6217,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -58,12 +101,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pattern language",
+            "homepage": "https://codeberg.org/uzu/tidal",
             "id": 898407,
             "language": "Haskell",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-13T19:22:15Z",
+            "open_issues": 114,
             "owner": "tidalcycles",
             "repo": "Tidal",
-            "stars": 2850
+            "stars": 2850,
+            "topics": [
+              "algorave",
+              "dsl",
+              "haskell",
+              "kairotic",
+              "language",
+              "live-coding",
+              "livecoding",
+              "pattern"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -74,12 +131,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A music programming language for musicians. :notes:",
+            "homepage": "https://alda.io",
             "id": 23338323,
             "language": "Go",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-19T20:01:02Z",
+            "open_issues": 7,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5935
+            "stars": 5935,
+            "topics": [
+              "alda",
+              "hacktoberfest",
+              "music",
+              "music-composition",
+              "music-programming",
+              "music-programming-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -90,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An audiovisual live coding environment for the browser",
+            "homepage": null,
             "id": 3394639,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-17T13:44:17Z",
+            "open_issues": 30,
             "owner": "gibber-cc",
             "repo": "gibber",
-            "stars": 977
+            "stars": 977,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -106,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cyber-physical programming environment",
+            "homepage": null,
             "id": 1286914,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-22T04:13:00Z",
+            "open_issues": 18,
             "owner": "digego",
             "repo": "extempore",
-            "stars": 1462
+            "stars": 1462,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -122,12 +202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python driven environment for Live Coding",
+            "homepage": "http://foxdot.org",
             "id": 41629698,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-07T09:26:41Z",
+            "open_issues": 52,
             "owner": "Qirky",
             "repo": "FoxDot",
-            "stars": 1156
+            "stars": 1156,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -138,12 +223,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Esoteric Programming Language",
+            "homepage": "https://100r.co/site/orca.html",
             "id": 121553439,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-16T18:19:05Z",
+            "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5075
+            "stars": 5075,
+            "topics": [
+              "esoteric-language",
+              "livecoding",
+              "midi",
+              "osc",
+              "programming-language",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -154,12 +251,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live coding music library/environment for Kotlin",
+            "homepage": null,
             "id": 254813352,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-31T15:12:33Z",
+            "open_issues": 3,
             "owner": "pjagielski",
             "repo": "punkt",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "kotlin",
+              "live-coding",
+              "music",
+              "sequencer"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -170,12 +277,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":musical_note: strongly-timed musical programming language",
+            "homepage": "https://Gwion.github.io/Gwion",
             "id": 69284662,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-10T23:10:02Z",
+            "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "audio",
+              "chuck",
+              "compiler",
+              "composition",
+              "hacktoberfest",
+              "interpreter",
+              "lang",
+              "language",
+              "music",
+              "programming-language",
+              "real-time",
+              "realtime-audio",
+              "sound",
+              "synth",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         }
@@ -192,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A musical scratchpad.",
+            "homepage": null,
             "id": 48604336,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-08T19:57:23Z",
+            "open_issues": 9,
             "owner": "ctford",
             "repo": "klangmeister",
-            "stars": 619
+            "stars": 619,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -208,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A music composition library for Clojure and Clojurescript.",
+            "homepage": null,
             "id": 6459936,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-15T22:24:27Z",
+            "open_issues": 4,
             "owner": "ctford",
             "repo": "leipzig",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -224,12 +362,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live coding environment with Overtone and Leipzig",
+            "homepage": null,
             "id": 56968567,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2019-02-11T17:39:34Z",
+            "open_issues": 0,
             "owner": "pjagielski",
             "repo": "disclojure",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "clojure",
+              "live-coding",
+              "music",
+              "overtone"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         },
@@ -240,12 +388,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MUD is a layer over Overtone to make live composition more powerful and immediate.",
+            "homepage": null,
             "id": 19996021,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2016-10-16T08:52:00Z",
+            "open_issues": 0,
             "owner": "josephwilk",
             "repo": "mud",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "live-coding",
+              "music",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
         }
@@ -254,15 +411,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:37.381Z",
+    "last_updated": "2026-08-29T04:42:27.976Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
+      "homepage": null,
       "id": 73324531,
       "language": null,
+      "license": null,
       "last_commit": "2022-09-20T11:10:44Z",
+      "open_issues": 6,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
-      "stars": 647
+      "stars": 647,
+      "topics": [
+        "awesome-list",
+        "live-coding",
+        "music"
+      ]
     },
     "original_repository_sha": "bcaee484bf9e2e0fe66096dcfbac7cb8e57a201d",
     "enhanced_repository": "enhansome/enhansome-live-coding-music",
