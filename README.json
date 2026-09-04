@@ -56,7 +56,7 @@
             "open_issues": 26,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12112,
+            "stars": 12114,
             "topics": [
               "art",
               "audio",
@@ -232,7 +232,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5078,
+            "stars": 5079,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:51:04.958Z",
+    "last_updated": "2026-09-04T22:34:23.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
