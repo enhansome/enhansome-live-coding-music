@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-07T20:56:31Z",
-            "open_issues": 1094,
+            "open_issues": 1096,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6718,
+            "stars": 6722,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -53,10 +53,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-12T16:51:53Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12123,
+            "stars": 12125,
             "topics": [
               "art",
               "audio",
@@ -169,7 +169,7 @@
             "open_issues": 30,
             "owner": "gibber-cc",
             "repo": "gibber",
-            "stars": 977,
+            "stars": 976,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -232,7 +232,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5086,
+            "stars": 5087,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:00:53.065Z",
+    "last_updated": "2026-09-09T22:47:31.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
@@ -423,7 +423,7 @@
       "open_issues": 6,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
-      "stars": 647,
+      "stars": 648,
       "topics": [
         "awesome-list",
         "live-coding",
