@@ -19,7 +19,7 @@
             "open_issues": 1091,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6734,
+            "stars": 6736,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -56,7 +56,7 @@
             "open_issues": 28,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12138,
+            "stars": 12142,
             "topics": [
               "art",
               "audio",
@@ -110,7 +110,7 @@
             "open_issues": 113,
             "owner": "tidalcycles",
             "repo": "Tidal",
-            "stars": 2848,
+            "stars": 2847,
             "topics": [
               "algorave",
               "dsl",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:12:37.664Z",
+    "last_updated": "2026-09-16T23:17:31.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
