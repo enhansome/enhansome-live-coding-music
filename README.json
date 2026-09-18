@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T17:34:04Z",
-            "open_issues": 1091,
+            "open_issues": 1093,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6740,
+            "stars": 6743,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -56,7 +56,7 @@
             "open_issues": 28,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12141,
+            "stars": 12142,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6220,
+            "stars": 6219,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -286,7 +286,7 @@
             "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "audio",
               "chuck",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:08:52.494Z",
+    "last_updated": "2026-09-18T22:52:05.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
