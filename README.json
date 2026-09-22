@@ -15,8 +15,8 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T19:35:22Z",
-            "open_issues": 1089,
+            "last_commit": "2026-09-22T20:23:29Z",
+            "open_issues": 1088,
             "owner": "supercollider",
             "repo": "supercollider",
             "stars": 6742,
@@ -53,10 +53,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-20T14:15:12Z",
-            "open_issues": 30,
+            "open_issues": 32,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12146,
+            "stars": 12147,
             "topics": [
               "art",
               "audio",
@@ -186,11 +186,11 @@
             "id": 1286914,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-21T08:47:29Z",
+            "last_commit": "2026-09-22T03:40:46Z",
             "open_issues": 18,
             "owner": "digego",
             "repo": "extempore",
-            "stars": 1465,
+            "stars": 1464,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -232,7 +232,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5096,
+            "stars": 5097,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -286,7 +286,7 @@
             "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "audio",
               "chuck",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:41:28.542Z",
+    "last_updated": "2026-09-22T23:17:59.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
