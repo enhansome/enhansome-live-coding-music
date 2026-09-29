@@ -15,11 +15,11 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T15:13:06Z",
-            "open_issues": 1102,
+            "last_commit": "2026-09-28T22:07:54Z",
+            "open_issues": 1101,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6748,
+            "stars": 6750,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T22:23:27Z",
+            "last_commit": "2026-09-28T16:14:45Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12157,
+            "stars": 12158,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6220,
+            "stars": 6221,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -140,7 +140,7 @@
             "open_issues": 5,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5945,
+            "stars": 5946,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -232,7 +232,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5099,
+            "stars": 5102,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:25:58.092Z",
+    "last_updated": "2026-09-29T00:37:45.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
@@ -423,7 +423,7 @@
       "open_issues": 6,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
-      "stars": 648,
+      "stars": 649,
       "topics": [
         "awesome-list",
         "live-coding",
