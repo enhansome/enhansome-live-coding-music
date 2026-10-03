@@ -15,11 +15,11 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T12:51:57Z",
-            "open_issues": 1103,
+            "last_commit": "2026-10-02T06:18:27Z",
+            "open_issues": 1104,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6768,
+            "stars": 6770,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T12:16:46Z",
+            "last_commit": "2026-10-02T08:09:19Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12167,
+            "stars": 12171,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6223,
+            "stars": 6224,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -140,7 +140,7 @@
             "open_issues": 5,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5947,
+            "stars": 5948,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -211,7 +211,7 @@
             "open_issues": 52,
             "owner": "Qirky",
             "repo": "FoxDot",
-            "stars": 1162,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -232,7 +232,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5105,
+            "stars": 5106,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -286,7 +286,7 @@
             "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "audio",
               "chuck",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:16:20.018Z",
+    "last_updated": "2026-10-03T00:01:34.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
@@ -423,7 +423,7 @@
       "open_issues": 6,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
-      "stars": 649,
+      "stars": 647,
       "topics": [
         "awesome-list",
         "live-coding",
