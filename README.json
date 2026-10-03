@@ -19,7 +19,7 @@
             "open_issues": 1104,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6770,
+            "stars": 6771,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:01:34.010Z",
+    "last_updated": "2026-10-03T04:52:36.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
