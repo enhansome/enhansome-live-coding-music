@@ -19,7 +19,7 @@
             "open_issues": 1092,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6785,
+            "stars": 6789,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T22:44:42Z",
+            "last_commit": "2026-10-13T10:51:34Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12195,
+            "stars": 12197,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6228,
+            "stars": 6229,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -110,7 +110,7 @@
             "open_issues": 113,
             "owner": "tidalcycles",
             "repo": "Tidal",
-            "stars": 2847,
+            "stars": 2846,
             "topics": [
               "algorave",
               "dsl",
@@ -286,7 +286,7 @@
             "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "audio",
               "chuck",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:16:10.192Z",
+    "last_updated": "2026-10-13T23:58:48.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
