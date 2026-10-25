@@ -15,8 +15,8 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T21:11:55Z",
-            "open_issues": 1091,
+            "last_commit": "2026-10-25T21:34:03Z",
+            "open_issues": 1093,
             "owner": "supercollider",
             "repo": "supercollider",
             "stars": 6802,
@@ -56,7 +56,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12225,
+            "stars": 12227,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6231,
+            "stars": 6232,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5958,
+            "stars": 5959,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -232,7 +232,7 @@
             "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5127,
+            "stars": 5128,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:45:35.754Z",
+    "last_updated": "2026-10-25T22:50:14.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
