@@ -19,7 +19,7 @@
             "open_issues": 1098,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6804,
+            "stars": 6807,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -56,7 +56,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12230,
+            "stars": 12231,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6232,
+            "stars": 6233,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5959,
+            "stars": 5960,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -190,7 +190,7 @@
             "open_issues": 18,
             "owner": "digego",
             "repo": "extempore",
-            "stars": 1467,
+            "stars": 1468,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -232,7 +232,7 @@
             "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5127,
+            "stars": 5129,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:06:52.597Z",
+    "last_updated": "2026-10-28T00:05:14.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
