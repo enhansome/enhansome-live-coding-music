@@ -15,11 +15,11 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T15:19:03Z",
-            "open_issues": 1106,
+            "last_commit": "2026-11-06T12:48:43Z",
+            "open_issues": 1105,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6814,
+            "stars": 6815,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T19:51:34Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-06T21:56:35Z",
+            "open_issues": 39,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12249,
+            "stars": 12251,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6235,
+            "stars": 6233,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -186,7 +186,7 @@
             "id": 1286914,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-05T06:03:40Z",
+            "last_commit": "2026-11-06T09:23:44Z",
             "open_issues": 18,
             "owner": "digego",
             "repo": "extempore",
@@ -260,7 +260,7 @@
             "open_issues": 3,
             "owner": "pjagielski",
             "repo": "punkt",
-            "stars": 328,
+            "stars": 324,
             "topics": [
               "kotlin",
               "live-coding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:10:05.449Z",
+    "last_updated": "2026-11-07T00:25:50.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
@@ -423,7 +423,7 @@
       "open_issues": 6,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
-      "stars": 650,
+      "stars": 651,
       "topics": [
         "awesome-list",
         "live-coding",
