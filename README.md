@@ -8,9 +8,9 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 
 | Name                                                                                                            | Summary                                                                                                                                                       | Language                |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [SuperCollider](https://github.com/supercollider/supercollider/) ⭐ 6,815 \| 🐛 1,105 \| 🌐 C++ \| 📅 2026-11-06 | platform for audio synthesis and algorithmic composition                                                                                                      | Smalltalk-like (SClang) |
-| [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,251 \| 🐛 39 \| 🌐 C++ \| 📅 2026-11-06                   | complete open source programming environment originally designed to explore and teach programming concepts                                                    | Ruby                    |
-| [Overtone](https://github.com/overtone/overtone) ⭐ 6,233 \| 🐛 96 \| 🌐 Clojure \| 📅 2026-01-24                | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure                 |
+| [SuperCollider](https://github.com/supercollider/supercollider/) ⭐ 6,818 \| 🐛 1,104 \| 🌐 C++ \| 📅 2026-11-07 | platform for audio synthesis and algorithmic composition                                                                                                      | Smalltalk-like (SClang) |
+| [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,250 \| 🐛 38 \| 🌐 C++ \| 📅 2026-11-06                   | complete open source programming environment originally designed to explore and teach programming concepts                                                    | Ruby                    |
+| [Overtone](https://github.com/overtone/overtone) ⭐ 6,234 \| 🐛 96 \| 🌐 Clojure \| 📅 2026-01-24                | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure                 |
 | [TidalCycles](https://github.com/tidalcycles/Tidal) ⚠️ Archived                                                 | language for live coding of pattern                                                                                                                           | Haskell                 |
 | [Alda](https://github.com/alda-lang/alda) ⭐ 5,961 \| 🐛 6 \| 🌐 Go \| 📅 2026-10-23                             | music programming language for musicians                                                                                                                      | Alda/Clojure            |
 | [Gibber](https://github.com/charlieroberts/Gibber) ⭐ 977 \| 🐛 30 \| 🌐 JavaScript \| 📅 2024-09-17             | live coding environment for the web browser                                                                                                                   | Javascript              |
@@ -61,4 +61,4 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
