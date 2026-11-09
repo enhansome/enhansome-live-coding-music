@@ -15,11 +15,11 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T12:13:20Z",
-            "open_issues": 1104,
+            "last_commit": "2026-11-08T15:49:46Z",
+            "open_issues": 1105,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6818,
+            "stars": 6821,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T21:56:35Z",
+            "last_commit": "2026-11-08T10:51:30Z",
             "open_issues": 38,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12250,
+            "stars": 12253,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6234,
+            "stars": 6235,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5961,
+            "stars": 5963,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:01:47.489Z",
+    "last_updated": "2026-11-09T00:08:22.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
