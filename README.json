@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-12T11:52:40Z",
-            "open_issues": 1109,
+            "open_issues": 1110,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6837,
+            "stars": 6839,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T14:40:16Z",
+            "last_commit": "2026-11-15T23:04:03Z",
             "open_issues": 41,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12272,
+            "stars": 12276,
             "topics": [
               "art",
               "audio",
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:25:19.485Z",
+    "last_updated": "2026-11-16T00:25:24.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
@@ -420,7 +420,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-09-20T11:10:44Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
       "stars": 651,
