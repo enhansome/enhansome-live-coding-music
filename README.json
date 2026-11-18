@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-12T11:52:40Z",
-            "open_issues": 1111,
+            "open_issues": 1112,
             "owner": "supercollider",
             "repo": "supercollider",
             "stars": 6844,
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T23:15:53Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-17T22:48:01Z",
+            "open_issues": 43,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12279,
+            "stars": 12278,
             "topics": [
               "art",
               "audio",
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5962,
+            "stars": 5963,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -186,7 +186,7 @@
             "id": 1286914,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-17T00:00:10Z",
+            "last_commit": "2026-11-17T06:36:06Z",
             "open_issues": 18,
             "owner": "digego",
             "repo": "extempore",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:14:10.576Z",
+    "last_updated": "2026-11-18T02:38:10.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
