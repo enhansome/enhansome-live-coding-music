@@ -15,11 +15,11 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T04:00:11Z",
-            "open_issues": 1116,
+            "last_commit": "2026-11-24T08:54:36Z",
+            "open_issues": 1118,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6849,
+            "stars": 6852,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T21:58:57Z",
+            "last_commit": "2026-11-24T15:51:13Z",
             "open_issues": 45,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12288,
+            "stars": 12291,
             "topics": [
               "art",
               "audio",
@@ -110,7 +110,7 @@
             "open_issues": 113,
             "owner": "tidalcycles",
             "repo": "Tidal",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "algorave",
               "dsl",
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5966,
+            "stars": 5968,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -186,7 +186,7 @@
             "id": 1286914,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-24T04:26:26Z",
+            "last_commit": "2026-11-25T01:03:21Z",
             "open_issues": 19,
             "owner": "digego",
             "repo": "extempore",
@@ -232,7 +232,7 @@
             "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5146,
+            "stars": 5147,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:01:15.367Z",
+    "last_updated": "2026-11-25T03:48:41.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
