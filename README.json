@@ -15,11 +15,11 @@
             "id": 4228314,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T08:54:36Z",
-            "open_issues": 1120,
+            "last_commit": "2026-11-26T19:13:23Z",
+            "open_issues": 1116,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6858,
+            "stars": 6860,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -52,11 +52,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T18:43:55Z",
+            "last_commit": "2026-11-27T02:18:33Z",
             "open_issues": 45,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12293,
+            "stars": 12294,
             "topics": [
               "art",
               "audio",
@@ -89,7 +89,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6238,
+            "stars": 6237,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:29.592Z"
@@ -140,7 +140,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5968,
+            "stars": 5969,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -186,7 +186,7 @@
             "id": 1286914,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-26T02:48:22Z",
+            "last_commit": "2026-11-27T02:48:41Z",
             "open_issues": 19,
             "owner": "digego",
             "repo": "extempore",
@@ -232,7 +232,7 @@
             "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5148,
+            "stars": 5149,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -260,7 +260,7 @@
             "open_issues": 3,
             "owner": "pjagielski",
             "repo": "punkt",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "kotlin",
               "live-coding",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:13:50.937Z",
+    "last_updated": "2026-11-27T03:18:45.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Live Coding Music frameworks, libraries and software.",
@@ -423,7 +423,7 @@
       "open_issues": 7,
       "owner": "pjagielski",
       "repo": "awesome-live-coding-music",
-      "stars": 651,
+      "stars": 653,
       "topics": [
         "awesome-list",
         "live-coding",
